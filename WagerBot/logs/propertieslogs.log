@@ -1,0 +1,1003 @@
+[INFO ] 2020-08-24 11:58:07.262 [main] App - New logger
+[INFO ] 2020-08-24 12:00:36.809 [main] App - New logger
+[INFO ] 2020-08-24 12:04:38.160 [main] App - New logger
+[INFO ] 2020-08-27 11:14:32.187 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:16:33.137 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:18:58.130 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:21:10.882 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:24:06.906 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:27:41.465 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:30:17.816 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:36:46.961 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:37:50.818 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:38:15.900 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:38:15.901 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 11:39:11.738 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:39:59.051 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:39:59.051 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 11:39:59.051 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:39:59.051 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:40:23.169 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:40:23.169 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 11:40:23.169 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:40:23.169 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:40:44.855 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:40:44.855 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 11:40:44.855 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:40:44.855 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:42:20.794 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:42:35.971 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:42:35.971 [JDA MainWS-ReadThread] App - [DROP] 6
+[INFO ] 2020-08-27 11:42:35.971 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:42:35.971 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:42:54.480 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:42:54.481 [JDA MainWS-ReadThread] App - [DROP] 6
+[INFO ] 2020-08-27 11:42:54.481 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:42:54.481 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:43:08.279 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:43:08.279 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-27 11:43:08.279 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:43:08.279 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:43:35.487 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:43:35.487 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-27 11:43:35.487 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:43:35.487 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:44:07.340 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:44:07.340 [JDA MainWS-ReadThread] App - [DROP] 8
+[INFO ] 2020-08-27 11:44:07.340 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:44:07.341 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:44:29.531 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:44:29.531 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-27 11:44:29.531 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:44:29.532 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:55:22.607 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:55:43.410 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:55:43.410 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 11:55:43.411 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:55:43.411 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:58:21.935 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 11:58:35.162 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:58:35.162 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-27 11:58:35.162 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:58:35.162 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:58:52.484 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:58:52.484 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-27 11:58:52.484 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:58:52.484 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:59:16.989 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 11:59:16.989 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-27 11:59:16.989 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:59:16.989 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 11:59:33.196 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 11:59:33.196 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-27 11:59:33.196 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 11:59:33.196 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:02:10.733 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 12:02:29.182 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:02:29.183 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 12:02:29.183 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:02:29.183 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:02:51.464 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:02:51.464 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 12:02:51.465 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:02:51.465 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:04:57.884 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:04:57.884 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-27 12:04:57.884 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:04:57.884 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:05:12.158 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:05:12.158 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-27 12:05:12.158 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:05:12.158 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:05:34.728 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 12:05:34.728 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-27 12:05:34.728 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:05:34.728 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:06:56.484 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 12:07:39.119 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 12:07:51.289 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:07:51.289 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 12:07:51.289 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:07:51.289 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:07:58.857 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:07:58.857 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 12:07:58.858 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:07:58.858 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:08:05.624 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:08:05.624 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-27 12:08:05.624 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:08:05.624 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:08:14.717 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:08:14.717 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-27 12:08:14.717 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:08:14.718 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:08:24.713 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 12:08:24.713 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-27 12:08:24.713 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:08:24.713 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:08:36.119 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 12:08:36.120 [JDA MainWS-ReadThread] App - [DROP] 14
+[INFO ] 2020-08-27 12:08:36.120 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:08:36.120 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:09:01.545 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 12:09:01.546 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-27 12:09:01.546 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:09:01.546 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:20:49.899 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 12:20:49.899 [JDA MainWS-ReadThread] App - [DROP] 16
+[INFO ] 2020-08-27 12:20:49.899 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:20:49.899 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 12:21:03.140 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 12:21:03.140 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-27 12:21:03.140 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 12:21:03.140 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:01:50.375 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 16:02:24.191 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-27 16:02:24.193 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:02:24.194 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-27 16:02:24.194 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:02:24.194 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:02:34.057 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-27 16:02:34.058 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:02:34.058 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-27 16:02:34.058 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:02:34.058 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:02:40.864 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-27 16:02:40.864 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:02:40.864 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-27 16:02:40.864 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:02:40.864 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:02:50.936 [JDA MainWS-ReadThread] App - Maximum Score: 528
+[INFO ] 2020-08-27 16:02:50.937 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:02:50.937 [JDA MainWS-ReadThread] App - [DROP] 15
+[INFO ] 2020-08-27 16:02:50.937 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:02:50.937 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:03:43.069 [JDA MainWS-ReadThread] App - Maximum Score: 528
+[INFO ] 2020-08-27 16:03:43.069 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:03:43.069 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-27 16:03:43.069 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:03:43.069 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-27 16:04:29.798 [JDA MainWS-ReadThread] App - Maximum Score: 528
+[INFO ] 2020-08-27 16:04:29.798 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:04:29.798 [JDA MainWS-ReadThread] App - [DROP] 16
+[INFO ] 2020-08-27 16:04:29.798 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:04:29.798 [JDA MainWS-ReadThread] App - [PICK] 3
+[INFO ] 2020-08-27 16:05:23.166 [JDA MainWS-ReadThread] App - Maximum Score: 528
+[INFO ] 2020-08-27 16:05:23.167 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:05:23.167 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-27 16:05:23.167 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:05:23.167 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:05:59.804 [JDA MainWS-ReadThread] App - Maximum Score: 528
+[INFO ] 2020-08-27 16:05:59.805 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:05:59.805 [JDA MainWS-ReadThread] App - [DROP] 16
+[INFO ] 2020-08-27 16:05:59.805 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:05:59.805 [JDA MainWS-ReadThread] App - [PICK] 2
+[INFO ] 2020-08-27 16:10:23.390 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 16:12:40.212 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 16:12:56.243 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-27 16:12:56.245 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:12:56.245 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 16:12:56.246 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:12:56.246 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:13:04.139 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-27 16:13:04.139 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:13:04.140 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-27 16:13:04.140 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:13:04.140 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:13:10.862 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-27 16:13:10.862 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:13:10.862 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-27 16:13:10.863 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:13:10.863 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:13:19.247 [JDA MainWS-ReadThread] App - Maximum Score: 532
+[INFO ] 2020-08-27 16:13:19.247 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:13:19.247 [JDA MainWS-ReadThread] App - [DROP] 16
+[INFO ] 2020-08-27 16:13:19.248 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:13:19.248 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:13:29.995 [JDA MainWS-ReadThread] App - Maximum Score: 529
+[INFO ] 2020-08-27 16:13:29.995 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:13:29.995 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-27 16:13:29.995 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:13:29.995 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:14:08.693 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 16:14:22.462 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-27 16:14:22.465 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:14:22.465 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 16:14:22.465 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:14:22.465 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:14:29.834 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-27 16:14:29.835 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:14:29.835 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-27 16:14:29.835 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:14:29.835 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:14:40.575 [JDA MainWS-ReadThread] App - Maximum Score: 470
+[INFO ] 2020-08-27 16:14:40.575 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:14:40.576 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-27 16:14:40.576 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:14:40.576 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:14:54.935 [JDA MainWS-ReadThread] App - Maximum Score: 524
+[INFO ] 2020-08-27 16:14:54.935 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:14:54.935 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-27 16:14:54.935 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:14:54.936 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:15:25.205 [JDA MainWS-ReadThread] App - Maximum Score: 524
+[INFO ] 2020-08-27 16:15:25.205 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:15:25.206 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-27 16:15:25.206 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:15:25.206 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:16:31.216 [JDA MainWS-ReadThread] App - Maximum Score: 524
+[INFO ] 2020-08-27 16:16:31.217 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:16:31.217 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-27 16:16:31.217 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:16:31.217 [JDA MainWS-ReadThread] App - [PICK] 2
+[INFO ] 2020-08-27 16:16:52.930 [JDA MainWS-ReadThread] App - Maximum Score: 490
+[INFO ] 2020-08-27 16:16:52.930 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:16:52.930 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-27 16:16:52.930 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:16:52.930 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:17:08.556 [JDA MainWS-ReadThread] App - Maximum Score: 490
+[INFO ] 2020-08-27 16:17:08.557 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:17:08.557 [JDA MainWS-ReadThread] App - [DROP] 15
+[INFO ] 2020-08-27 16:17:08.557 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:17:08.557 [JDA MainWS-ReadThread] App - [PICK] 2
+[INFO ] 2020-08-27 16:19:18.320 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 16:19:27.415 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-27 16:19:27.417 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:19:27.417 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-27 16:19:27.417 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:19:27.417 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:19:32.757 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-27 16:19:32.757 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:19:32.758 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-27 16:19:32.758 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:19:32.758 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:19:39.150 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-27 16:19:39.151 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:19:39.151 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-27 16:19:39.151 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:19:39.151 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:19:46.607 [JDA MainWS-ReadThread] App - Maximum Score: 530
+[INFO ] 2020-08-27 16:19:46.607 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:19:46.607 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-27 16:19:46.608 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:19:46.608 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:19:56.332 [JDA MainWS-ReadThread] App - Maximum Score: 584
+[INFO ] 2020-08-27 16:19:56.332 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:19:56.332 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-27 16:19:56.333 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:19:56.333 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:20:12.007 [JDA MainWS-ReadThread] App - Maximum Score: 575
+[INFO ] 2020-08-27 16:20:12.008 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:20:12.008 [JDA MainWS-ReadThread] App - [DROP] 6
+[INFO ] 2020-08-27 16:20:12.008 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:20:12.008 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:20:51.809 [JDA MainWS-ReadThread] App - Maximum Score: 571
+[INFO ] 2020-08-27 16:20:51.809 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:20:51.809 [JDA MainWS-ReadThread] App - [DROP] 6
+[INFO ] 2020-08-27 16:20:51.809 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:20:51.809 [JDA MainWS-ReadThread] App - [PICK] 5
+[INFO ] 2020-08-27 16:21:18.357 [JDA MainWS-ReadThread] App - Maximum Score: 571
+[INFO ] 2020-08-27 16:21:18.357 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:21:18.358 [JDA MainWS-ReadThread] App - [DROP] 6
+[INFO ] 2020-08-27 16:21:18.358 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:21:18.358 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:21:28.902 [JDA MainWS-ReadThread] App - Maximum Score: 571
+[INFO ] 2020-08-27 16:21:28.902 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:21:28.902 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-27 16:21:28.903 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:21:28.903 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:22:17.666 [JDA MainWS-ReadThread] App - Maximum Score: 545
+[INFO ] 2020-08-27 16:22:17.666 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:22:17.667 [JDA MainWS-ReadThread] App - [DROP] 8
+[INFO ] 2020-08-27 16:22:17.667 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:22:17.667 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:25:11.820 [JDA MainWS-ReadThread] App - Maximum Score: 545
+[INFO ] 2020-08-27 16:25:11.821 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:25:11.821 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-27 16:25:11.821 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:25:11.821 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:25:52.779 [JDA MainWS-ReadThread] App - Maximum Score: 545
+[INFO ] 2020-08-27 16:25:52.779 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:25:52.779 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-27 16:25:52.779 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:25:52.779 [JDA MainWS-ReadThread] App - [PICK] 3
+[INFO ] 2020-08-27 16:26:09.904 [JDA MainWS-ReadThread] App - Maximum Score: 545
+[INFO ] 2020-08-27 16:26:09.904 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:26:09.904 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-27 16:26:09.905 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:26:09.905 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:26:41.518 [JDA MainWS-ReadThread] App - Maximum Score: 507
+[INFO ] 2020-08-27 16:26:41.518 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:26:41.518 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-27 16:26:41.518 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:26:41.518 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:26:55.985 [JDA MainWS-ReadThread] App - Maximum Score: 507
+[INFO ] 2020-08-27 16:26:55.985 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:26:55.985 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-27 16:26:55.985 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:26:55.985 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:27:05.210 [JDA MainWS-ReadThread] App - Maximum Score: 501
+[INFO ] 2020-08-27 16:27:05.210 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:27:05.210 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-27 16:27:05.210 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:27:05.210 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:27:15.614 [JDA MainWS-ReadThread] App - Maximum Score: 501
+[INFO ] 2020-08-27 16:27:15.614 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:27:15.615 [JDA MainWS-ReadThread] App - [DROP] 16
+[INFO ] 2020-08-27 16:27:15.615 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:27:15.615 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:27:39.895 [JDA MainWS-ReadThread] App - Maximum Score: 477
+[INFO ] 2020-08-27 16:27:39.896 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:27:39.896 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-27 16:27:39.896 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:27:39.896 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:28:06.521 [JDA MainWS-ReadThread] App - Maximum Score: 450
+[INFO ] 2020-08-27 16:28:06.521 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:28:06.521 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-27 16:28:06.521 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:28:06.521 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:30:22.406 [JDA MainWS-ReadThread] App - Maximum Score: 420
+[INFO ] 2020-08-27 16:30:22.407 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:30:22.407 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-27 16:30:22.407 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:30:22.407 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:30:46.027 [JDA MainWS-ReadThread] App - Maximum Score: 420
+[INFO ] 2020-08-27 16:30:46.028 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:30:46.028 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-27 16:30:46.028 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:30:46.028 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:31:24.643 [JDA MainWS-ReadThread] App - Maximum Score: 410
+[INFO ] 2020-08-27 16:31:24.643 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:31:24.643 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-27 16:31:24.643 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:31:24.643 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:31:49.067 [JDA MainWS-ReadThread] App - Maximum Score: 410
+[INFO ] 2020-08-27 16:31:49.067 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:31:49.067 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-27 16:31:49.067 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-27 16:31:49.067 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-27 16:34:54.224 [JDA MainWS-ReadThread] App - Maximum Score: 410
+[INFO ] 2020-08-27 16:34:54.225 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-27 16:34:54.225 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-27 16:34:54.225 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:34:54.225 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:35:14.181 [JDA MainWS-ReadThread] App - Maximum Score: 410
+[INFO ] 2020-08-27 16:35:14.181 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-27 16:35:14.181 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-27 16:35:14.182 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:35:14.182 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:36:27.729 [main] App - 
+New logger initiated
+[INFO ] 2020-08-27 16:36:42.071 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-27 16:36:42.074 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:36:42.074 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-27 16:36:42.074 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:36:42.074 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:38:29.315 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-27 16:38:29.316 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-27 16:38:29.316 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-27 16:38:29.316 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-27 16:38:29.316 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-27 16:41:45.039 [main] App - 
+New logger initiated
+[INFO ] 2020-08-28 10:20:01.849 [main] App - 
+New logger initiated
+[INFO ] 2020-08-28 10:44:37.143 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-28 10:44:37.145 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-28 10:44:37.146 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-28 10:44:37.146 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:44:37.146 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:44:54.430 [JDA MainWS-ReadThread] App - Maximum Score: 422
+[INFO ] 2020-08-28 10:44:54.431 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-28 10:44:54.431 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-28 10:44:54.431 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:44:54.431 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:45:12.395 [JDA MainWS-ReadThread] App - Maximum Score: 476
+[INFO ] 2020-08-28 10:45:12.396 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-28 10:45:12.396 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-28 10:45:12.396 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 10:45:12.396 [JDA MainWS-ReadThread] App - [PICK] 5
+[INFO ] 2020-08-28 10:45:36.192 [JDA MainWS-ReadThread] App - Maximum Score: 530
+[INFO ] 2020-08-28 10:45:36.193 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 10:45:36.193 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-28 10:45:36.193 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 10:45:36.193 [JDA MainWS-ReadThread] App - [PICK] 3
+[INFO ] 2020-08-28 10:46:17.858 [JDA MainWS-ReadThread] App - Maximum Score: 526
+[INFO ] 2020-08-28 10:46:17.858 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:46:17.858 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:46:17.858 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:46:17.859 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:46:40.905 [JDA MainWS-ReadThread] App - Maximum Score: 514
+[INFO ] 2020-08-28 10:46:40.906 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:46:40.906 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:46:40.906 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:46:40.906 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:47:00.554 [JDA MainWS-ReadThread] App - Maximum Score: 514
+[INFO ] 2020-08-28 10:47:00.555 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:47:00.555 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:47:00.555 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:47:00.555 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:47:40.874 [JDA MainWS-ReadThread] App - Maximum Score: 489
+[INFO ] 2020-08-28 10:47:40.874 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:47:40.874 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:47:40.874 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:47:40.874 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:47:58.104 [JDA MainWS-ReadThread] App - Maximum Score: 482
+[INFO ] 2020-08-28 10:47:58.105 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:47:58.105 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-28 10:47:58.105 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:47:58.105 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:48:19.645 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-28 10:48:19.645 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:48:19.645 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-28 10:48:19.646 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:48:19.646 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:48:30.416 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-28 10:48:30.416 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:48:30.416 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:48:30.417 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:48:30.417 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:49:19.210 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-28 10:49:19.211 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:49:19.211 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:49:19.211 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:49:19.211 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:50:43.284 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-28 10:50:43.284 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:50:43.284 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:50:43.285 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:50:43.285 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:50:56.231 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-28 10:50:56.232 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:50:56.232 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:50:56.232 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:50:56.232 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:51:04.793 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-28 10:51:04.793 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:51:04.793 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 10:51:04.793 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:51:04.793 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:51:46.873 [JDA MainWS-ReadThread] App - Maximum Score: 450
+[INFO ] 2020-08-28 10:51:46.874 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:51:46.874 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:51:46.874 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 10:51:46.874 [JDA MainWS-ReadThread] App - [PICK] 3
+[INFO ] 2020-08-28 10:52:18.945 [JDA MainWS-ReadThread] App - Maximum Score: 440
+[INFO ] 2020-08-28 10:52:18.946 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:52:18.946 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 10:52:18.946 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:52:18.946 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:52:38.852 [JDA MainWS-ReadThread] App - Maximum Score: 440
+[INFO ] 2020-08-28 10:52:38.853 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 10:52:38.853 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-28 10:52:38.853 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:52:38.853 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:53:01.674 [JDA MainWS-ReadThread] App - Maximum Score: 440
+[INFO ] 2020-08-28 10:53:01.675 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:53:01.675 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:53:01.675 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:53:01.675 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:53:27.037 [JDA MainWS-ReadThread] App - Maximum Score: 410
+[INFO ] 2020-08-28 10:53:27.037 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 10:53:27.037 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-28 10:53:27.037 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:53:27.037 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:53:38.551 [JDA MainWS-ReadThread] App - Maximum Score: 410
+[INFO ] 2020-08-28 10:53:38.551 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 10:53:38.551 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-28 10:53:38.551 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:53:38.551 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:53:54.510 [JDA MainWS-ReadThread] App - Maximum Score: 396
+[INFO ] 2020-08-28 10:53:54.511 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:53:54.511 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:53:54.511 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:53:54.511 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:54:06.689 [JDA MainWS-ReadThread] App - Maximum Score: 380
+[INFO ] 2020-08-28 10:54:06.690 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 10:54:06.690 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-28 10:54:06.690 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 10:54:06.690 [JDA MainWS-ReadThread] App - [PICK] 3
+[INFO ] 2020-08-28 10:54:17.487 [JDA MainWS-ReadThread] App - Maximum Score: 380
+[INFO ] 2020-08-28 10:54:17.487 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 10:54:17.488 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-28 10:54:17.488 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:54:17.488 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:54:31.178 [JDA MainWS-ReadThread] App - Maximum Score: 354
+[INFO ] 2020-08-28 10:54:31.178 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 10:54:31.178 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-28 10:54:31.178 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:54:31.178 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:54:40.221 [JDA MainWS-ReadThread] App - Maximum Score: 334
+[INFO ] 2020-08-28 10:54:40.221 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 10:54:40.221 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-28 10:54:40.222 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:54:40.222 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:58:37.160 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-28 10:58:37.161 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-28 10:58:37.161 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-28 10:58:37.161 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:58:37.161 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:58:51.251 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-28 10:58:51.251 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-28 10:58:51.251 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-28 10:58:51.251 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:58:51.251 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 10:59:19.425 [JDA MainWS-ReadThread] App - Maximum Score: 475
+[INFO ] 2020-08-28 10:59:19.425 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-28 10:59:19.425 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-28 10:59:19.425 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 10:59:19.425 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:00:00.533 [JDA MainWS-ReadThread] App - Maximum Score: 526
+[INFO ] 2020-08-28 11:00:00.534 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:00:00.534 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-28 11:00:00.534 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:00:00.534 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:00:31.610 [JDA MainWS-ReadThread] App - Maximum Score: 526
+[INFO ] 2020-08-28 11:00:31.611 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:00:31.611 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-28 11:00:31.611 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:00:31.611 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:00:42.639 [JDA MainWS-ReadThread] App - Maximum Score: 526
+[INFO ] 2020-08-28 11:00:42.639 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 11:00:42.639 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-28 11:00:42.639 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:00:42.639 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:01:03.730 [JDA MainWS-ReadThread] App - Maximum Score: 520
+[INFO ] 2020-08-28 11:01:03.730 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:01:03.730 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-28 11:01:03.730 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:01:03.730 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:01:28.206 [JDA MainWS-ReadThread] App - Maximum Score: 520
+[INFO ] 2020-08-28 11:01:28.207 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:01:28.207 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-28 11:01:28.207 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:01:28.207 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:02:06.281 [JDA MainWS-ReadThread] App - Maximum Score: 497
+[INFO ] 2020-08-28 11:02:06.281 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:02:06.281 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-28 11:02:06.281 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 11:02:06.281 [JDA MainWS-ReadThread] App - [PICK] 2
+[INFO ] 2020-08-28 11:02:35.424 [JDA MainWS-ReadThread] App - Maximum Score: 497
+[INFO ] 2020-08-28 11:02:35.424 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:02:35.424 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-28 11:02:35.424 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:02:35.424 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:02:52.419 [JDA MainWS-ReadThread] App - Maximum Score: 497
+[INFO ] 2020-08-28 11:02:52.419 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:02:52.419 [JDA MainWS-ReadThread] App - [DROP] 13
+[INFO ] 2020-08-28 11:02:52.419 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 11:02:52.419 [JDA MainWS-ReadThread] App - [PICK] 2
+[INFO ] 2020-08-28 11:03:23.717 [JDA MainWS-ReadThread] App - Maximum Score: 492
+[INFO ] 2020-08-28 11:03:23.717 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:03:23.717 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-28 11:03:23.717 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:03:23.717 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:03:37.125 [JDA MainWS-ReadThread] App - Maximum Score: 492
+[INFO ] 2020-08-28 11:03:37.126 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:03:37.126 [JDA MainWS-ReadThread] App - [DROP] 13
+[INFO ] 2020-08-28 11:03:37.126 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:03:37.126 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:04:12.929 [JDA MainWS-ReadThread] App - Maximum Score: 488
+[INFO ] 2020-08-28 11:04:12.929 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:04:12.929 [JDA MainWS-ReadThread] App - [DROP] 13
+[INFO ] 2020-08-28 11:04:12.929 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:04:12.929 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:04:29.256 [JDA MainWS-ReadThread] App - Maximum Score: 463
+[INFO ] 2020-08-28 11:04:29.256 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:04:29.256 [JDA MainWS-ReadThread] App - [DROP] 13
+[INFO ] 2020-08-28 11:04:29.256 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:04:29.256 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:04:46.240 [JDA MainWS-ReadThread] App - Maximum Score: 463
+[INFO ] 2020-08-28 11:04:46.241 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:04:46.241 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-28 11:04:46.241 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:04:46.241 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:05:03.793 [JDA MainWS-ReadThread] App - Maximum Score: 456
+[INFO ] 2020-08-28 11:05:03.793 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:05:03.793 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 11:05:03.793 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 11:05:03.793 [JDA MainWS-ReadThread] App - [PICK] 2
+[INFO ] 2020-08-28 11:05:16.647 [JDA MainWS-ReadThread] App - Maximum Score: 448
+[INFO ] 2020-08-28 11:05:16.647 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:05:16.647 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-28 11:05:16.647 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:05:16.647 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:05:38.833 [JDA MainWS-ReadThread] App - Maximum Score: 441
+[INFO ] 2020-08-28 11:05:38.834 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:05:38.834 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 11:05:38.834 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 11:05:38.834 [JDA MainWS-ReadThread] App - [PICK] 2
+[INFO ] 2020-08-28 11:05:53.230 [JDA MainWS-ReadThread] App - Maximum Score: 413
+[INFO ] 2020-08-28 11:05:53.231 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 11:05:53.231 [JDA MainWS-ReadThread] App - [DROP] 6
+[INFO ] 2020-08-28 11:05:53.231 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 11:05:53.231 [JDA MainWS-ReadThread] App - [PICK] 1
+[INFO ] 2020-08-28 11:06:09.367 [JDA MainWS-ReadThread] App - Maximum Score: 409
+[INFO ] 2020-08-28 11:06:09.367 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 11:06:09.368 [JDA MainWS-ReadThread] App - [DROP] 7
+[INFO ] 2020-08-28 11:06:09.368 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:06:09.368 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:06:24.673 [JDA MainWS-ReadThread] App - Maximum Score: 395
+[INFO ] 2020-08-28 11:06:24.673 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:06:24.673 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 11:06:24.673 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:06:24.673 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:06:32.826 [JDA MainWS-ReadThread] App - Maximum Score: 379
+[INFO ] 2020-08-28 11:06:32.826 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:06:32.826 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 11:06:32.826 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:06:32.826 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:06:43.551 [JDA MainWS-ReadThread] App - Maximum Score: 379
+[INFO ] 2020-08-28 11:06:43.551 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:06:43.551 [JDA MainWS-ReadThread] App - [DROP] 13
+[INFO ] 2020-08-28 11:06:43.551 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 11:06:43.551 [JDA MainWS-ReadThread] App - [PICK] 1
+[INFO ] 2020-08-28 11:06:54.702 [JDA MainWS-ReadThread] App - Maximum Score: 379
+[INFO ] 2020-08-28 11:06:54.702 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:06:54.702 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 11:06:54.702 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:06:54.702 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:07:14.373 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-28 11:07:14.373 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 11:07:14.374 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-28 11:07:14.374 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-28 11:07:14.374 [JDA MainWS-ReadThread] App - [PICK] 1
+[INFO ] 2020-08-28 11:07:34.913 [JDA MainWS-ReadThread] App - Maximum Score: 352
+[INFO ] 2020-08-28 11:07:34.914 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-28 11:07:34.914 [JDA MainWS-ReadThread] App - [DROP] 8
+[INFO ] 2020-08-28 11:07:34.914 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:07:34.914 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:08:06.024 [JDA MainWS-ReadThread] App - Maximum Score: 348
+[INFO ] 2020-08-28 11:08:06.024 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-28 11:08:06.024 [JDA MainWS-ReadThread] App - [DROP] 10
+[INFO ] 2020-08-28 11:08:06.024 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-28 11:08:06.024 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-28 11:33:35.102 [main] App - 
+New logger initiated
+[INFO ] 2020-08-29 11:35:44.073 [main] App - 
+New logger initiated
+[INFO ] 2020-08-29 11:36:06.028 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-29 11:36:06.029 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-29 11:36:06.029 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-29 11:36:06.029 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-29 11:36:06.029 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-29 11:36:34.025 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-29 11:36:34.026 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-29 11:36:34.026 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-29 11:36:34.026 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-29 11:36:34.026 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-29 11:36:42.871 [JDA MainWS-ReadThread] App - Maximum Score: 470
+[INFO ] 2020-08-29 11:36:42.871 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-29 11:36:42.872 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-29 11:36:42.872 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-29 11:36:42.872 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-29 13:59:00.696 [main] App - 
+New logger initiated
+[INFO ] 2020-08-29 14:01:06.298 [main] App - 
+New logger initiated
+[INFO ] 2020-08-29 14:26:31.739 [main] App - 
+New logger initiated
+[INFO ] 2020-08-29 14:37:24.517 [main] App - 
+New logger initiated
+[INFO ] 2020-08-29 16:41:50.964 [main] App - 
+New logger initiated
+[INFO ] 2020-08-29 16:52:37.700 [main] App - 
+New logger initiated
+[INFO ] 2020-08-30 11:43:02.455 [main] App - 
+New logger initiated
+[INFO ] 2020-08-30 11:43:35.260 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-30 11:43:35.261 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-30 11:43:35.261 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-30 11:43:35.262 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:43:35.262 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:43:40.727 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-30 11:43:40.727 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-30 11:43:40.727 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-30 11:43:40.728 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:43:40.728 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:45:41.929 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-30 11:45:41.930 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-30 11:45:41.930 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-30 11:45:41.930 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:45:41.930 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:45:55.193 [JDA MainWS-ReadThread] App - Maximum Score: 532
+[INFO ] 2020-08-30 11:45:55.193 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-30 11:45:55.193 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-30 11:45:55.193 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:45:55.193 [JDA MainWS-ReadThread] App - [PICK] 3
+[INFO ] 2020-08-30 11:46:12.773 [JDA MainWS-ReadThread] App - Maximum Score: 586
+[INFO ] 2020-08-30 11:46:12.773 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:46:12.774 [JDA MainWS-ReadThread] App - [DROP] 16
+[INFO ] 2020-08-30 11:46:12.774 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:46:12.774 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:46:22.578 [JDA MainWS-ReadThread] App - Maximum Score: 586
+[INFO ] 2020-08-30 11:46:22.579 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:46:22.579 [JDA MainWS-ReadThread] App - [DROP] 14
+[INFO ] 2020-08-30 11:46:22.579 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:46:22.579 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:50:03.542 [JDA MainWS-ReadThread] App - Maximum Score: 574
+[INFO ] 2020-08-30 11:50:03.543 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-30 11:50:03.543 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-30 11:50:03.543 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:50:03.543 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-30 11:50:40.931 [JDA MainWS-ReadThread] App - Maximum Score: 570
+[INFO ] 2020-08-30 11:50:40.932 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:50:40.932 [JDA MainWS-ReadThread] App - [DROP] 16
+[INFO ] 2020-08-30 11:50:40.932 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:50:40.932 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:50:58.150 [JDA MainWS-ReadThread] App - Maximum Score: 545
+[INFO ] 2020-08-30 11:50:58.150 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:50:58.150 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-30 11:50:58.150 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:50:58.150 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:51:12.452 [JDA MainWS-ReadThread] App - Maximum Score: 545
+[INFO ] 2020-08-30 11:51:12.453 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:51:12.453 [JDA MainWS-ReadThread] App - [DROP] 15
+[INFO ] 2020-08-30 11:51:12.453 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:51:12.453 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:51:55.402 [JDA MainWS-ReadThread] App - Maximum Score: 510
+[INFO ] 2020-08-30 11:51:55.402 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:51:55.402 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:51:55.402 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:51:55.403 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-30 11:52:24.914 [JDA MainWS-ReadThread] App - Maximum Score: 510
+[INFO ] 2020-08-30 11:52:24.914 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:52:24.915 [JDA MainWS-ReadThread] App - [DROP] 14
+[INFO ] 2020-08-30 11:52:24.915 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:52:24.915 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:52:41.471 [JDA MainWS-ReadThread] App - Maximum Score: 510
+[INFO ] 2020-08-30 11:52:41.471 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:52:41.471 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-30 11:52:41.472 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:52:41.472 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:53:00.753 [JDA MainWS-ReadThread] App - Maximum Score: 486
+[INFO ] 2020-08-30 11:53:00.753 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:53:00.753 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:53:00.753 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:53:00.753 [JDA MainWS-ReadThread] App - [PICK] 3
+[INFO ] 2020-08-30 11:54:11.649 [JDA MainWS-ReadThread] App - Maximum Score: 486
+[INFO ] 2020-08-30 11:54:11.650 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:54:11.650 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:54:11.650 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:54:11.650 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:54:23.752 [JDA MainWS-ReadThread] App - Maximum Score: 486
+[INFO ] 2020-08-30 11:54:23.753 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:54:23.753 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-30 11:54:23.753 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:54:23.753 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:54:33.179 [JDA MainWS-ReadThread] App - Maximum Score: 484
+[INFO ] 2020-08-30 11:54:33.179 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:54:33.179 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:54:33.179 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:54:33.179 [JDA MainWS-ReadThread] App - [PICK] 1
+[INFO ] 2020-08-30 11:54:54.523 [JDA MainWS-ReadThread] App - Maximum Score: 461
+[INFO ] 2020-08-30 11:54:54.523 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:54:54.523 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-30 11:54:54.523 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:54:54.523 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:55:14.706 [JDA MainWS-ReadThread] App - Maximum Score: 461
+[INFO ] 2020-08-30 11:55:14.706 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:55:14.706 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:55:14.706 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:55:14.706 [JDA MainWS-ReadThread] App - [PICK] 1
+[INFO ] 2020-08-30 11:55:24.013 [JDA MainWS-ReadThread] App - Maximum Score: 461
+[INFO ] 2020-08-30 11:55:24.013 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-30 11:55:24.014 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-30 11:55:24.014 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:55:24.014 [JDA MainWS-ReadThread] App - [PICK] 1
+[INFO ] 2020-08-30 11:55:37.741 [JDA MainWS-ReadThread] App - Maximum Score: 442
+[INFO ] 2020-08-30 11:55:37.741 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-30 11:55:37.742 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-30 11:55:37.742 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:55:37.742 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - Maximum Score: 421
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:55:47.795 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-30 11:55:47.796 [JDA MainWS-ReadThread] App - [DROP] 2
+[INFO ] 2020-08-30 11:55:47.796 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:55:47.796 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:56:19.898 [JDA MainWS-ReadThread] App - Maximum Score: 421
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:56:19.899 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - Maximum Score: 421
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:57:02.732 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-30 11:57:02.733 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:57:02.733 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - Maximum Score: 421
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - Path: Increase Curr Score
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - [DROP] 3
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:57:16.354 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:57:27.689 [JDA MainWS-ReadThread] App - Maximum Score: 417
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:57:27.690 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:57:41.197 [JDA MainWS-ReadThread] App - Maximum Score: 411
+[INFO ] 2020-08-30 11:57:41.197 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.197 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.197 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.197 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - [DROP] 13
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:57:41.198 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - Maximum Score: 404
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:57:54.084 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:58:12.082 [JDA MainWS-ReadThread] App - Maximum Score: 396
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - [DROP] 9
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:58:12.083 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - Maximum Score: 387
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.184 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.185 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:26.185 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:58:26.185 [JDA MainWS-ReadThread] App - [DROP] 11
+[INFO ] 2020-08-30 11:58:26.185 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:58:26.185 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - Maximum Score: 377
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:33.838 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:58:33.839 [JDA MainWS-ReadThread] App - [DROP] 12
+[INFO ] 2020-08-30 11:58:33.839 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 11:58:33.839 [JDA MainWS-ReadThread] App - [PICK] 4
+[INFO ] 2020-08-30 11:58:46.586 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-30 11:58:46.586 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.586 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - CPU Note: Running out of turns
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - Path: Minimize Value Lost and Demand
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - [DROP] 13
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 11:58:46.587 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 12:00:07.494 [main] App - 
+New logger initiated
+[INFO ] 2020-08-30 12:00:22.110 [JDA MainWS-ReadThread] App - Maximum Score: 370
+[INFO ] 2020-08-30 12:00:22.112 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-30 12:00:22.112 [JDA MainWS-ReadThread] App - [DROP] 4
+[INFO ] 2020-08-30 12:00:22.112 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 12:00:22.112 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 12:00:47.676 [JDA MainWS-ReadThread] App - Maximum Score: 424
+[INFO ] 2020-08-30 12:00:47.676 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-30 12:00:47.676 [JDA MainWS-ReadThread] App - [DROP] 5
+[INFO ] 2020-08-30 12:00:47.676 [JDA MainWS-ReadThread] App - Path: Else
+[INFO ] 2020-08-30 12:00:47.677 [JDA MainWS-ReadThread] App - [PICK] 0
+[INFO ] 2020-08-30 12:01:42.571 [JDA MainWS-ReadThread] App - Maximum Score: 478
+[INFO ] 2020-08-30 12:01:42.572 [JDA MainWS-ReadThread] App - Path: Increase Max Score
+[INFO ] 2020-08-30 12:01:42.572 [JDA MainWS-ReadThread] App - [DROP] 1
+[INFO ] 2020-08-30 12:01:42.572 [JDA MainWS-ReadThread] App - Path: Increase Min Score
+[INFO ] 2020-08-30 12:01:42.572 [JDA MainWS-ReadThread] App - [PICK] 1
+[INFO ] 2020-08-30 12:04:34.199 [main] App - 
+New logger initiated
+[INFO ] 2020-08-30 12:06:42.740 [main] App - 
+New logger initiated
+[INFO ] 2020-08-30 12:19:12.647 [main] App - 
+New logger initiated
+[INFO ] 2020-08-31 11:53:31.023 [main] App - 
+New logger initiated
+[INFO ] 2020-08-31 11:53:44.926 [main] App - 
+New logger initiated
+[INFO ] 2020-08-31 12:03:22.450 [main] App - 
+New logger initiated
+[INFO ] 2020-08-31 12:09:06.335 [main] App - 
+New logger initiated
+[INFO ] 2020-09-01 11:24:07.130 [main] App - 
+New logger initiated
+[INFO ] 2020-09-01 11:38:11.432 [main] App - 
+New logger initiated
+[INFO ] 2020-09-01 11:38:26.013 [main] App - 
+New logger initiated
+[INFO ] 2020-09-01 11:38:45.507 [main] App - 
+New logger initiated
+[INFO ] 2020-09-01 11:42:23.347 [main] App - 
+New logger initiated
+[INFO ] 2020-09-01 12:00:03.379 [main] App - 
+New logger initiated
+[INFO ] 2020-09-06 20:14:44.943 [main] App - 
+New logger initiated
+[INFO ] 2020-09-06 20:17:08.088 [main] App - 
+New logger initiated
+[INFO ] 2020-09-06 20:18:42.121 [main] App - 
+New logger initiated

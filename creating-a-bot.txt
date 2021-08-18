@@ -1,0 +1,148 @@
+https://www.youtube.com/watch?v=7n4h1CCReow&t=27s
+
+1. Register a bot under a discord account: https://discord.com/developers/applications
+	Go to Bot tab and click Add Bot
+	Keep Authentication Token
+2. Add bot to server: https://discord.com/oauth2/authorize?client_id=<ID>&scope=bot
+3. Create a new Maven project in IntelliJ/Eclipse
+4. Copy over this pom.xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>NAME</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <name>NAME</name>
+    <url>http://maven.apache.org</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.dv8tion</groupId>
+            <artifactId>JDA</artifactId>
+            <version>3.4.0_318</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>1.7.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jgrapht</groupId>
+            <artifactId>jgrapht-core</artifactId>
+            <version>1.4.0</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>jcenter</id>
+            <name>jcenter-bintray</name>
+            <url>http://jcenter.bintray.com</url>
+        </repository>
+    </repositories>
+</project>
+
+
+
+
+
+
+
+
+
+
+
+
+
+public class App extends ListenerAdapter {
+
+    @SuppressWarnings("deprecation")
+    public static void main(String[] args) throws LoginException, IllegalArgumentException, InterruptedException, RateLimitedException, FileNotFoundException, ClassNotFoundException, IOException {
+        // Removes error messages
+        //BasicConfigurator.configure();
+
+        // Use API to setup bot object and add listeners
+        JDA jdaBot = new JDABuilder(AccountType.BOT).setToken("NzIwMDA3NTAwMDM1Nzg0ODc0.Xt_tYA.IJT5C7Z4hFuGCuF5Qh97NJ72IlM").buildBlocking();
+        jdaBot.addEventListener(new App());
+        jdaBot.getPresence().setGame(Game.of("type ;help"));
+
+        //System.out.println(jdaBot.getGuilds().get(0).getTextChannels());
+        System.out.println("Setting up Whitehall bot");
+
+        //GlobalVars.setup();
+
+    }
+
+    @Override
+    public void onMessageReceived(MessageReceivedEvent e) {
+        String message = e.getMessage().getContent();
+        if (e.getAuthor().isBot()) {
+
+        } else {
+            // Bot command symbol
+            if (message.startsWith(";")) {
+                processCommand(e, message.substring(1));
+            }
+
+            com.roland.PACKAGE.game.Game game = null;
+            for (com.roland.PACKAGE.game.Game g : GlobalVars.currentGames) {
+                if (g.channel.equals(e.getChannel())) {
+                    game = g;
+                }
+            }
+            // Didn't find game
+            if (game == null) return;
+        }
+    }
+
+    public void processCommand(net.dv8tion.jda.core.events.Event e, String text) {
+        processCommand(e, text, false);
+    }
+    public void processCommand(net.dv8tion.jda.core.events.Event e, String text, boolean forced) {
+        System.out.println("[DEBUG LOG/Game.java] Processing: "+text);
+        String commandName = text.split(" ")[0];
+        String[] args = {};
+        if (text.split(" ").length > 1) {
+            args = text.replace(commandName+" ","").split(" ");
+        }
+        Commands command = new Commands(commandName,e,args);
+        // For forcing a player to do a command
+//        if (forced) {
+//            command.changeAuthor();
+//        }
+        command.attempt();
+        command = null;
+    }
+
+}
